@@ -1,0 +1,26 @@
+{
+  "name": "pdp_example",
+  "version": "1.0.0",
+  "description": "Product Detail Page",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp html scripts watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josepplloo/pdp_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josepplloo/pdp_example/issues"
+  },
+  "homepage": "https://github.com/josepplloo/pdp_example#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
